@@ -21,7 +21,7 @@ st.set_page_config(layout="wide")
 Map = geemap.Map()
 ee.Initialize()
 item_id_dict = {
-    "psu": "e185caf63fbd452aa7b3d1e6396404a9",
+    "psu": "8f76aea7c7bd4d01aec7d409a6af88d6",
     "ssu": "543d31deb07c4a4ab4ae9d59b429508d",
 }
 ceo_legend = {
