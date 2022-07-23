@@ -21,8 +21,8 @@ st.set_page_config(layout="wide")
 Map = geemap.Map()
 ee.Initialize()
 item_id_dict = {
-    "psu": "8f76aea7c7bd4d01aec7d409a6af88d6",
-    "ssu": "543d31deb07c4a4ab4ae9d59b429508d",
+    "psu": "b61d0544139b4b5184e23000f04d742c",
+    "ssu": "611af6b07a4a4b34a2cc16c45dea2239",
 }
 ceo_legend = {
     "Trees_CanopyCover": "#007500",
