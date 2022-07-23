@@ -22,7 +22,7 @@ Map = geemap.Map()
 ee.Initialize()
 item_id_dict = {
     "psu": "b61d0544139b4b5184e23000f04d742c",
-    "ssu": "611af6b07a4a4b34a2cc16c45dea2239",
+    "ssu": "543d31deb07c4a4ab4ae9d59b429508d",
 }
 ceo_legend = {
     "Trees_CanopyCover": "#007500",
