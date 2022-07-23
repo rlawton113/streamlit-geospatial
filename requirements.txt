@@ -15,6 +15,16 @@ streamlit-bokeh-events
 streamlit-folium
 streamlit-keplergl
 tropycal
+arcgis==1.9.1
+matplotlib
+numpy
+pandas
+seaborn
+folium
+ipyleaflet
+earthengine-api
+go_utils
+scikit-learn
 # git+https://github.com/giswqs/leafmap
 # git+https://github.com/giswqs/geemap
 
